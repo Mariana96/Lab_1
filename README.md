@@ -13,3 +13,5 @@ Realizarlo en Python:
 -Explore, usando lo aprendido en el laboratorio, los datos provistos.
 
 -Plantee al menos 3 preguntas que puedan ser respondidas con los datos provistos y postule el código (o algoritmo) necesario para responderla.
+
+Mariana Valdespino Ramos
